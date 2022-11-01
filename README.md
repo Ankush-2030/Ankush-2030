@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Ankush-2030
+- 🏆 I am proeficient in Java, C++ and have basic knowledge of python
 - 👀 I’m interested in Artificial Intelligence and Machine learning
 - 🌱 I’m currently learning Android development
 - 💞️ I’m looking to collaborate on projects related to android development
