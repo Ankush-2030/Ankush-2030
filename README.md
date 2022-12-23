@@ -3,7 +3,7 @@
 - 👀 I’m interested in Artificial Intelligence and Machine learning
 - 🌱 I’m currently learning Android development
 - 💞️ I’m looking to collaborate on projects related to android development
-- 📫 Connect me through Instagram @ankushlamba7781
+- 📫 Connect to me through Instagram @ankushlamba7781
 
 
 
